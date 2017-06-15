@@ -121,6 +121,7 @@ void determineIfMax(){
     else if(count == 3){
       max3 = maxTime;
     }
+    count++;
   }
 }
 
